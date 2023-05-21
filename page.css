@@ -1,0 +1,113 @@
+body {
+    background-image: url(wattchbg.jpg);  
+}
+a{
+   padding-top:0pc;
+    text-decoration: none;
+    font-size:1.4pc;
+    color:brown;
+    text-shadow: 6px 6px 4px #08452982;
+    
+}
+a:hover{
+    color:green;
+    font-size:1.9pc;
+    text-shadow: 6px 6px 5px #45081b82;
+}
+.p{
+    padding-left:4pc;
+    margin-top: 6pc;
+    font-size: 3pc;
+    margin-bottom: 1pc;
+    text-shadow: 6px 6px 6px #1a141482;
+}
+.p1{
+    padding-left:9pc;
+    margin-bottom: 1pc;
+}
+.btn2{
+   
+    background-color:brown;
+    color:white;
+    margin-top:1pc;
+    padding: 10px 24px;
+    border-radius:0.5pc;
+    border: 1px solid rgba(0,0,0,0.2);
+    box-shadow: 0 6px 20px 0 rgba(0,0,0,0.19), 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.btn2:hover{
+    background-color: green;
+    box-shadow: 0 0 0 0 rgba(0,0,0,0);
+    padding: 10px 24px;
+    font-size: 1pc;
+}
+nav{
+    text-align:left;
+    background-color: rgba(229, 229, 220, 0.187);
+    margin:0%;
+    padding: 1pc;
+
+}
+.btn{
+    background-color:brown;
+    color:white;
+    padding: 10px 24px;
+    border-radius:0.5pc;
+    float:right;
+    border: 1px solid rgba(0,0,0,0.2);
+    margin-right:3pc;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.19), 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.btn:hover{
+    background-color :green;
+    color:white;
+    box-shadow: 0 0 0 0 rgba(0,0,0,0.2);
+    padding: 10px 24px;
+    font-size: 1pc;
+}
+table{
+    margin: 6pc;
+}
+th:hover{
+    box-shadow:0 8px 26px 0 rgba(0,0,0,0.19), 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-sizing: 600px;
+}
+th{
+    text-align: center;
+    font-size: 1.5pc;
+    color: rgba(21, 10, 10, 0.475);
+    text-shadow: 6px 6px 5px #251a1d4e;
+    background-color: rgba(255, 250, 240, 0.196);
+    margin-bottom: 2pc;
+    padding-top: 0.5pc;
+}
+.wtc{
+    float:right;
+    margin-right: 4pc;
+    text-shadow: 6px 6px 6px #1a141482; ;
+}
+.btn1{
+    background-color:brown;
+    color:white;
+    padding: 10px 110px;
+    margin-bottom: 2pc;
+    margin-top: 1pc;
+    border: 1px solid rgba(0,0,0,0.2);
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.19), 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.btn1:hover{
+background-color :green;
+color:white;
+box-shadow: 0 0 0 0 rgba(0,0,0,0.2);
+padding: 10px 24px;
+font-size: 1pc;
+}
+footer{
+    background-color: rgba(209, 209, 198, 0.308);
+    text-align: center;
+    margin: 0%;
+    padding: 1pc;
+    color: brown;
+    font-size:1.4pc;
+    text-shadow: 6px 6px 4px #08452982;
+}
